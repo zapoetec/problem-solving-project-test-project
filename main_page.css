@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(15, 238, 15);
+  }
+  h1 {
+    color: rgb(31, 26, 26);
+    text-align: center;
+  }
+  #resultlabel {
+    background-color:darkgreen;
+    color: red;
+  }
+  #deletebutton {
+    background-color:orange;
+      }
